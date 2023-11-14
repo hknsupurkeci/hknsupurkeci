@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 Hi there, i am Hakan.<br><br>🔭 I’m currently working on EAE Group<br><br>🌱 I’m currently using Unity, C#, OOP, SQL, .NET, RevitAPI, Competitive Programming, Web Services<br><br>🧳 I work as a Software Engineer developer and keep learning new frameworks. And I follow the latest technologies.<br><br>👨‍💻 Problem solving, which is the solution point of problems in order to improve myself, excites me. I like to produce analytical solutions.<br><br>⚡ I am highly motivated, organized, and able to work well both independently and as part of a team.<br><br>📫 Reach me out: hakansupurkeci@gmail.com
+💫 Hi there, i am Hakan.<br><br>🔭 I’m currently working on EAE Group<br><br>🌱 I’m currently using Unity, C#, OOP, SQL, ASP.NET Core, .NET, WebAPI, RevitAPI, Competitive Programming, Web Services<br><br>🧳 I work as a Software Engineer developer and keep learning new frameworks. And I follow the latest technologies.<br><br>👨‍💻 Problem solving, which is the solution point of problems in order to improve myself, excites me. I like to produce analytical solutions.<br><br>⚡ I am highly motivated, organized, and able to work well both independently and as part of a team.<br><br>📫 Reach me out: hakansupurkeci@gmail.com
 
 
 ## 🌐 Socials:
